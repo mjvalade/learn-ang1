@@ -1,0 +1,24 @@
+{
+  "name": "learn-ang1",
+  "version": "1.0.0",
+  "description": "Code School Angular1 tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjvalade/learn-ang1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjvalade/learn-ang1/issues"
+  },
+  "homepage": "https://github.com/mjvalade/learn-ang1#readme",
+  "devDependencies": {
+    "angular": "^1.6.1",
+    "bootstrap": "^3.3.7"
+  }
+}
